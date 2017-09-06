@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://oa.ccshj.net:8080/ezweb/apple.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://oa.ccshj.net:8080/ezweb/itunesArtwork.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://oa.ccshj.net:8080/ezweb/Icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.dreamsoft.3hj</string>
+				<key>bundle-version</key>
+				<string>1.02</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>iPhone/iPad版</string>
+				<key>title</key>
+				<string>中交三航</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
